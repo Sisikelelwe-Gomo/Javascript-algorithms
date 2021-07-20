@@ -1,1 +1,1 @@
-# Javascript-algorithms
+# Javascript-cryptography
